@@ -1,0 +1,5 @@
+/home/diego-d/MonoProjects/Actividad3U2/Actividad3U2/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/diego-d/MonoProjects/Actividad3U2/Actividad3U2/bin/Debug/Actividad3U2.exe.mdb
+/home/diego-d/MonoProjects/Actividad3U2/Actividad3U2/bin/Debug/Actividad3U2.exe
+/home/diego-d/MonoProjects/Actividad3U2/Actividad3U2/obj/x86/Debug/Actividad3U2.exe
+/home/diego-d/MonoProjects/Actividad3U2/Actividad3U2/obj/x86/Debug/Actividad3U2.exe.mdb
